@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("🎈 Welcome To Dandelion")
 st.write(
-    "  beautiful flower called dandelion.)."
+    "beautiful flower called dandelion."
 )
